@@ -4,3 +4,4 @@ display the content list
 list in long format
 display hidden in long format
 list everything in directiry
+copy directory
