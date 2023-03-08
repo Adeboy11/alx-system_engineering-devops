@@ -1,2 +1,2 @@
-#!bin/bash
+#!/bin/bash
 cp -r my_first_directory/ ../../tmp
