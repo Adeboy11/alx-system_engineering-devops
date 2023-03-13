@@ -5,3 +5,5 @@ display two files
 last 10 lines
 1st 10 lines
 read 3rd line
+change file
+write into file
