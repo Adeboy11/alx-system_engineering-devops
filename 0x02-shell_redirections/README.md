@@ -7,3 +7,4 @@ last 10 lines
 read 3rd line
 change file
 write into file
+duplicate line
