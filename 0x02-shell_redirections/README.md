@@ -12,3 +12,4 @@ using find
 count directory
 newest files
 sorted
+find the word
