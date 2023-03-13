@@ -13,3 +13,4 @@ count directory
 newest files
 sorted
 find the word
+count the word
