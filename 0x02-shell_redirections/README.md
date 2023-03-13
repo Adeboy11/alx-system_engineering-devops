@@ -16,3 +16,4 @@ find the word
 count the word
 what next
 word dont contain bin
+letters with capital
