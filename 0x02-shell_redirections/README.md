@@ -11,3 +11,4 @@ duplicate line
 using find
 count directory
 newest files
+sorted
