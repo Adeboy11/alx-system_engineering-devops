@@ -9,3 +9,4 @@ change file
 write into file
 duplicate line
 using find
+count directory
