@@ -19,3 +19,4 @@ word dont contain bin
 letters with capital
 replace
 replace letters
+reverse ur self
