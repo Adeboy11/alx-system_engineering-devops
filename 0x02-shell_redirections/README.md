@@ -20,3 +20,4 @@ letters with capital
 replace
 replace letters
 reverse ur self
+display
