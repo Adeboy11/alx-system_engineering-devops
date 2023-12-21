@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+#using do while case
 
 myfile="apache-access.log"
 awk -F' ' '{ print $1, $9}' $myfile

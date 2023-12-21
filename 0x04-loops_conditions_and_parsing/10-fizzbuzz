@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+#using do while case
 
 for num in {1..100}
 do

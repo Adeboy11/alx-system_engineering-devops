@@ -1,5 +1,6 @@
 #!/usr/bin/env bash
-
+#using do while clock
+=1
 hour=0
 
 while [ $hour -le 12 ]
