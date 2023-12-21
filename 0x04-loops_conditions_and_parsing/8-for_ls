@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-using do while case
+#using do while case
 
 mylist=$(ls)
 
